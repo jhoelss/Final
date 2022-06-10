@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\Tienda.Logic.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\Tienda.Logic.pdb
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\obj\Debug\Tienda.Logic.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\obj\Debug\Tienda.Logic.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\obj\Debug\Tienda.Logic.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\obj\Debug\Tienda.Logic.pdb
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\EntityFramework.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\Tienda.Core.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\Tienda.Data.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\Tienda.Core.pdb
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\Tienda.Core.dll.config
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\Tienda.Data.pdb
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\Tienda.Data.dll.config
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\EntityFramework.xml
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Logic\obj\Debug\Tienda.Logic.csproj.CopyComplete

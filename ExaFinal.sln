@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1758
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bussines Layer", "Bussines Layer", "{938C5757-F0F5-4E09-AE1C-B30DAF09E5C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Layer", "Data Layer", "{181F958F-8D67-40FF-9C7C-462C9615077D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation Layer", "Presentation Layer", "{E1F6CB62-9225-4DE3-A1FA-6A96DED0368C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda.Core", "Tienda.Core\Tienda.Core.csproj", "{BE8B0A67-2AB4-4BA1-9F6E-FB331C54B140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda.Logic", "Tienda.Logic\Tienda.Logic.csproj", "{0B090227-F4A3-4332-AF4D-6A9F391E9398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda.Data", "Tienda.Data\Tienda.Data.csproj", "{6547C462-4BD3-40F2-AC7B-0431E3E49EF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financiera.AppWeb", "Financiera.AppWeb\Financiera.AppWeb.csproj", "{2AD34160-EDCA-4FEF-A816-40352A044F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8B0A67-2AB4-4BA1-9F6E-FB331C54B140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8B0A67-2AB4-4BA1-9F6E-FB331C54B140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8B0A67-2AB4-4BA1-9F6E-FB331C54B140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8B0A67-2AB4-4BA1-9F6E-FB331C54B140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B090227-F4A3-4332-AF4D-6A9F391E9398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B090227-F4A3-4332-AF4D-6A9F391E9398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B090227-F4A3-4332-AF4D-6A9F391E9398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B090227-F4A3-4332-AF4D-6A9F391E9398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6547C462-4BD3-40F2-AC7B-0431E3E49EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6547C462-4BD3-40F2-AC7B-0431E3E49EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6547C462-4BD3-40F2-AC7B-0431E3E49EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6547C462-4BD3-40F2-AC7B-0431E3E49EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD34160-EDCA-4FEF-A816-40352A044F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD34160-EDCA-4FEF-A816-40352A044F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD34160-EDCA-4FEF-A816-40352A044F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD34160-EDCA-4FEF-A816-40352A044F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BE8B0A67-2AB4-4BA1-9F6E-FB331C54B140} = {938C5757-F0F5-4E09-AE1C-B30DAF09E5C4}
+		{0B090227-F4A3-4332-AF4D-6A9F391E9398} = {938C5757-F0F5-4E09-AE1C-B30DAF09E5C4}
+		{6547C462-4BD3-40F2-AC7B-0431E3E49EF7} = {181F958F-8D67-40FF-9C7C-462C9615077D}
+		{2AD34160-EDCA-4FEF-A816-40352A044F31} = {E1F6CB62-9225-4DE3-A1FA-6A96DED0368C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CC277F3-715F-4634-9D86-1148A4963D7E}
+	EndGlobalSection
+EndGlobal
