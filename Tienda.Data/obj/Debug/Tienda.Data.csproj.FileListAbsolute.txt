@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\Tienda.Data.dll.config
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\Tienda.Data.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\Tienda.Data.pdb
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\EntityFramework.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\Tienda.Core.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\Tienda.Core.pdb
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\Tienda.Core.dll.config
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\EntityFramework.xml
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\obj\Debug\Tienda.Data.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\obj\Debug\Tienda.Data.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\obj\Debug\Tienda.Data.csproj.CopyComplete
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\obj\Debug\Tienda.Data.dll
+C:\Users\usuario\source\repos\ExaFinal\Tienda.Data\obj\Debug\Tienda.Data.pdb
