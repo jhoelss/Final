@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Tienda.Core.Prestamo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Generar Prestamo</h2>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Cliente</th>
+            <th>Monto</th>
+            <th>Cuoto</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>@item.Fecha</td>
+            <td>@item.Cliente</td>
+            <td>@item.Monto</td>
+            <td>@item.Cuotas</td>
+        </tr>
+        }
+    </tbody>
+</table>
